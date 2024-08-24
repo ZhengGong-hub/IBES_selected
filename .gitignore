@@ -165,3 +165,7 @@ cython_debug/
 IBES_csv/
 IBES_clean_csv/
 IBES_clean_parquet/
+data/BROKER_*
+data/name_df*
+*.jsonl
+overall.parquet

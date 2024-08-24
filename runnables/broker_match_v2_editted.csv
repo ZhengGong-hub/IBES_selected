@@ -1,0 +1,861 @@
+,broker_matching_name,choice,gpt,brokername
+0,ABG,229,False,ABG Sundal Collier
+1,ABLEICH,34,False,Natixis Bleichroeder Inc.
+2,ABNLATAM,0,True,
+3,ABSA,1859,True,Absa Bank Limited
+4,ACCIVAL,3,False,Citigroup Inc
+5,ACCOUNT,1121,False,Accountability Research Corporation
+6,ACIRESCA,2279,False,ACI Research
+7,ACTINVER,349,False,BBVA Corporate and Investment Bank
+8,ACUMEN,443,False,Acumen Capital Finance Partners Limited
+9,ADAMS,1122,True,Adams Harkness
+10,ADVEST,53,False,"Advest, Inc."
+11,AEGISCAP,2869,False,Aegis Capital Corporation
+12,AFIN,0,True,
+13,AFRIFSEC,448,True,Afrifocus Securities (Pty) Ltd.
+14,AGORASEN,451,True,Agora Senior
+15,AKROS,488,True,Banca Akros S.p.A. (ESN)
+16,ALEMBIC,2471,True,Alembic Global Advisors
+17,ALFABANK,456,True,Alfa Bank
+18,ALLARIA,1125,False,Allaria Ledesma & Cia Sociedad de Bolsa S.A.
+19,ALLISEC,2786,True,National Alliance Securities
+20,ALPHA,458,True,Alpha Finance Investment Services S.A.
+21,ALPHABRI,3552,True,Alphabridge Group Inc.
+22,ALPHAV,2790,False,AlphaValue
+23,ALSTER,1113,True,SRH AlsterResearch AG
+24,ALTACORP,2771,False,ATB Capital Markets
+25,ALTIUM,134,True,Altium Capital Limited
+26,AMBITCAP,2344,True,Ambit Capital
+27,AMERICAP,336,True,"American Capital Partners, LLC"
+28,AMERTECH,54,False,"Gleacher & Company, Inc."
+29,AMRO,159,False,NWM Strategy
+30,ANALYST,3103,False,The Analyst Research LLP
+31,ANTRIM,0,True,
+32,APALACHE,3554,False,Apalache Análisis
+33,APERION,339,True,Aperion Group LLC
+34,ARABELLA,465,False,Arabella Securities
+35,ARBUTHNO,466,True,Arbuthnot Securities Limited
+36,ARCTIC,2310,True,Arctic Securities ASA
+37,ARDOUR,57,False,"Ardour Capital Investments, LLC"
+38,ARETE,2311,False,Arete Research Services LLP
+39,ARGUS,467,False,Argus Research Company
+40,ARNESON,1711,False,"Kercheville & Company, Inc."
+41,ARNHOLDB,34,False,Natixis Bleichroeder Inc.
+42,AROS,891,False,Nordea Markets
+43,ARPART,0,True,
+44,ARQAAM,2809,True,Arqaam Capital Research Offshore S.A.L.
+45,ASIAEQFH,0,True,
+46,ATLANEQU,476,True,Atlantic Equities LLP
+47,ATLANTIK,477,False,J & T Banka
+48,ATON,511,True,UniCredit Research
+49,ATONLINE,479,True,Aton LLC
+50,AUERBACH,0,True,
+51,AURIGA,1870,True,Auriga USA LLC
+52,AVIAN,0,True,
+53,AVIORRES,2809,False,Arqaam Capital Research Offshore S.A.L.
+54,AVONDALE,58,False,Avondale Partners
+55,AXIACAP,3210,True,"Axia Capital Markets, LLC"
+56,AXIAFR,484,False,Axia Financial Research
+57,AXIAVEN,3210,False,"Axia Capital Markets, LLC"
+58,BAABANK,2905,True,Baader Helvea Equity Research
+59,BACHE,408,False,"Prudential Equity Group, LLC"
+60,BAILLIEU,617,False,EL&C Baillieu
+61,BAKER,174,False,"Ferris, Baker Watts"
+62,BALDWINA,0,True,BALDWIN ANTHONY SECURITIES
+63,BANCOINV,495,False,BB Banco de Investimento S.A.
+64,BANIFPRI,500,True,Caixa Geral de Depósitos
+65,BANKAM,1879,False,Bank am Bellevue
+66,BANKMOS,2399,True,Bank of Moscow
+67,BANKVONT,203,True,Bank Vontobel AG
+68,BAPTISTA,3516,False,Baptista Research
+69,BARREN,3636,True,Barrenjoey Markets Pty Limited
+70,BARRING,141,False,"Barrington Research Associates, Inc."
+71,BAUM,680,False,George K. Baum & Company
+72,BAYLAND,512,False,Bayerische Landesbank
+73,BBVALTAM,349,False,BBVA Corporate and Investment Bank
+74,BBY,0,True,
+75,BCSLTD,2406,True,BCS Global Markets
+76,BEACONS,1151,True,Beacon Securities Limited
+77,BEAR,311,False,Bear Stearns Companies Inc.
+78,BEESON,160,True,Evolution Securities
+79,BELMONT,42,True,"Soleil Securities Group, Inc."
+80,BEREAN,0,True,
+81,BEREN,517,False,Berenberg
+82,BERN,158,False,"Sanford C. Bernstein & Co., LLC"
+83,BGBSEC,2281,False,"BGB Securities, Inc."
+84,BGCPART,2544,True,"BGC Partners, Inc."
+85,BHFBANK,518,True,BHF-Bank Aktiengesellschaft
+86,BIGELOW,0,True,BIGELOW & COMPANY
+87,BIO,519,False,BioScience Securities Inc
+88,BJM,521,True,Rencap Securities
+89,BLACK,522,True,Black & Co Inc.
+90,BLAIR,51,False,William Blair & Company L.L.C.
+91,BLAYLOCK,1155,False,Blaylock & Company Inc.
+92,BLAYROB,2890,True,Blaylock Beal Van
+93,BLC,383,False,HSBC
+94,BLUE,1056,False,Trade.com Global Markets Inc
+95,BLUEFIRE,523,True,BlueFire Research
+96,BLULOTUS,3267,True,Blue Lotus Research Institute
+97,BLURTON,2396,False,Bloom Burton & Co.
+98,BNPFH,352,True,BNP Paribas Securities (Asia)
+99,BOCI,525,True,BOCI Research Ltd.
+100,BOCINTER,525,True,BOCI Research Ltd.
+101,BOCOM,2951,True,BOCOM International Securities Limited
+102,BOENAT,877,True,Nedbank Corporate and Investment Bank
+103,BOENNING,142,True,"Boenning & Scattergood, Inc."
+104,BOENRE,1478,False,Boston Energy Research
+105,BPAULI,730,True,Huntleigh Securities Corporation
+106,BRADESCO,1106,False,Bradesco S.A. Corretora de Títulos e Valores Mobiliários
+107,BRADFORD,1229,True,J.C. Bradford & Co.
+108,BRADLEY,3574,True,Bradley Woods & Co. Ltd.
+109,BRANCHCA,527,True,Branch Cabell & Co Inc
+110,BREAN,143,False,Brean Capital
+111,BREBANK,0,True,
+112,BRIGANUS,2299,True,Brigantine Advisors
+113,BRILEY,140,False,"B. Riley Securities, Inc."
+114,BROADWAL,0,True,
+115,BROOKCM,3352,True,Brookline Capital Markets
+116,BROWNBRO,63,False,Brown Brothers Harriman
+117,BRYAN,1893,False,Bryan Garnier & Co
+118,BTIG,2527,False,BTIG
+119,BUALUANG,1636,False,Bualuang Securities PCL
+120,BUCK,64,False,Buckingham Research Group Inc.
+121,BURNHAM,1480,True,Burnham Securities Inc.
+122,BURNS,228,True,BMO Capital Markets Equity Research
+123,BUTTER,162,True,Seymour Pierce Limited
+124,BVBANK,511,False,UniCredit Research
+125,BWS,356,False,BWS Financial Inc.
+126,CABLEHOW,832,True,"Ragen Mackenzie Group, Inc."
+127,CABOTO,0,True,
+128,CABOTWEL,3609,False,Cabot Wealth Network
+129,CAIB,511,False,UniCredit Research
+130,CANACCOR,170,False,Canaccord Genuity
+131,CANTIL,0,True,
+132,CANTORFZ,133,False,Cantor Fitzgerald & Co.
+133,CANTORS,2881,True,Cantor Fitzgerald Europe
+134,CAPELEUR,383,False,HSBC
+135,CAPITALG,540,True,"Capital Growth Financial, LLC"
+136,CAPLP,2539,True,Casimir Capital L.P.
+137,CAPSTONE,226,False,Capstone Investments
+138,CARISCO,290,False,Caris & Company
+139,CARNEGIE,294,True,Carnegie Investment Bank AB
+140,CATHAY,177,False,Cathay Financial
+141,CBRADFOR,42,True,"Soleil Securities Group, Inc."
+142,CCB,357,True,CCB International Securities Limited
+143,CDC,2326,False,Natixis S.A.
+144,CELCAP,0,True,
+145,CENKSEC,550,True,Cavendish Historical (Cenkos Securities)
+146,CENTRE,183,True,CiG
+147,CENTRO,0,True,
+148,CFRANOWM,247,False,CFRA Equity Research
+149,CGALAXY,3188,True,China Galaxy International Securities (Hong Kong)
+150,CHAPMAN,1047,True,Chapman Company
+151,CHARDAN,2433,False,"Chardan Capital Markets, LLC"
+152,CHARLES,775,True,Joseph Charles & Associates Inc
+153,CHARTERE,0,True,
+154,CHARTHSE,324,False,ING Groep NV
+155,CHEIROLO,0,True,
+156,CHEVREUX,2957,True,Kepler Cheuvreux
+157,CHICAGO,159,True,NWM Strategy
+158,CHINAFA,0,True,
+159,CHINARE,0,True,
+160,CHOLET,68,True,Credit Agricole Securities (USA) Inc.
+161,CHRENUSA,3253,True,China Renaissance Securities
+162,CIC,574,True,CIC Market Solutions (ESN)
+163,CICC,564,True,China International Capital Corporation Limited
+164,CICEGYPT,1224,False,CI Capital Research
+165,CIMBFM,0,True,
+166,CINDASEC,0,True,
+167,CITICF,570,True,"Citic Securities Co., Ltd."
+168,CITICSEC,570,True,"Citic Securities Co., Ltd."
+169,CJSSECUR,299,False,"CJS Securities, Inc."
+170,CLADR,68,True,Credit Agricole Securities (USA) Inc.
+171,CLALEXHK,573,True,CLSA
+172,CLALFINA,295,True,Clal Finance Ltd.
+173,CLARKY,2740,False,Clarksons Platou Securities
+174,CLARUS,187,False,Clarus Securities Inc.
+175,CLEARY,1061,False,Tucker Anthony Sutro Capital Markets
+176,CLEAVES,0,True,
+177,CLEVELAN,1177,True,Cleveland Research Company
+178,CLKA,67,False,"CL King & Associates, Inc."
+179,CLUSA,68,True,Credit Agricole Securities (USA) Inc.
+180,CMBSEC,2761,True,CMB International Securities Limited
+181,CMCCS,2826,True,"China Merchants Securities (HK) Co., Ltd"
+182,CMCHANT,359,True,China Merchants Securities Co. Ltd.
+183,CNNING,584,True,Conning Research and Consulting
+184,COBROS,172,False,Cohen & Company
+185,COCHRAN,576,True,Cochran Caronia Waller Securities
+186,COKERPAL,579,True,Coker Palmer Institutional
+187,COLEMAN,299,True,"CJS Securities, inc"
+188,COMMERBK,330,False,Commerzbank AG
+189,COMMSEC,2540,False,Commonwealth Bank of Australia
+190,CONSUMER,2585,False,"Consumer Edge Research, LLC"
+191,COOPER,173,False,"C. K. Cooper & Company, Inc."
+192,CORINTHI,71,True,Corinthian Partners
+193,CORPSYNG,0,True,
+194,COULOIR,3520,False,Couloir Capital Limited
+195,CRAIG,181,False,Craig-Hallum Capital Group LLC
+196,CREAGRI,0,True,
+197,CRISPIDE,2587,True,Crisp Idea
+198,CROSSRE,590,True,Cross Research LLC
+199,CROWELL,72,False,"Crowell, Weedon & Co."
+200,CRTCAP,591,True,CRT Capital Group
+201,CRUTTEN,40,False,Roth MKM
+202,CSFBFH,4,True,Credit Suisse
+203,CTSECUR,120,False,Scotiabank Global Banking and Market
+204,CWEALTH,581,False,Commonwealth Associates L.P.
+205,DAEHAN,0,True,
+206,DAEWOO,592,True,Mirae Asset Securities Co. Ltd.
+207,DAHLROSE,303,True,Cohen Securities LLC
+208,DAIN,115,False,RBC Capital Markets
+209,DAINPCG,2395,False,"RBC Wealth Management, Inc."
+210,DAISHER,2656,True,Daishin Securities Co. Ltd.
+211,DAIWAUS,594,False,Daiwa Securities Co. Ltd.
+212,DAKIN,32,False,Moors & Cabot
+213,DANBORS,596,False,Danske Bank
+214,DAVIDSON,180,False,D.A. Davidson & Co.
+215,DAVIS,48,True,"Thompson, Davis & Company"
+216,DAWSON,597,True,Dawson James Securities
+217,DBDAY,2374,False,Day By Day
+218,DBS,265,True,DBS Vickers Research
+219,DBSFC,265,True,DBS Vickers Research
+220,DBSFH,265,True,DBS Vickers Research
+221,DDRES,0,True,
+222,DEACON,241,False,Eight Capital
+223,DECATUR,598,True,"Decatur Jones Equity Partners, LLC"
+224,DEINVEST,5,True,Deutsche Bank
+225,DELAHAMB,75,False,Delafield Hambrecht
+226,DENANT,2326,True,Natixis S.A.
+227,DESJARD,315,False,Desjardins Securities Inc.
+228,DGBANK,145,False,Dz Bank Ag
+229,DHSFH,0,True,
+230,DIRFH,594,True,Daiwa Securities Co. Ltd.
+231,DKB,6,False,Dresdner Kleinwort
+232,DKBFH,0,True,
+233,DLJ,611,True,"Donaldson, Lufkin & Jenrette Securities Corp."
+234,DLJFH,611,True,"Donaldson, Lufkin & Jenrette Securities Corp."
+235,DLOUHY,317,False,Cantor Fitzgerald Canada Corporation
+236,DMGEUR,5,False,Deutsche Bank
+237,DNC,314,False,DNB Markets
+238,DOLATCAP,1187,True,Dolat Capital Market Pvt. Ltd.
+239,DOLMEN,1188,True,Cantor Fitzgerald Ireland
+240,DOMINICK,2134,True,Dominick & Dominick LLC
+241,DOWLING,368,True,Dowling & Partners Securities LLC
+242,DOZEN,255,True,Cohen Grassroots Research
+243,DREWRY,3012,True,Drewry Financial Research
+244,DREXEL,2788,False,Drexel Hamilton
+245,DUDACK,0,True,
+246,DUNWIL,2276,True,"Duncan-Williams, Inc."
+247,EBRIGHT,645,True,Everbright Securities Co. Ltd.
+248,EDGEWA,3457,True,Edgewater Research Company
+249,EDJONES,623,False,"Edward D. Jones & Co., L.P."
+250,EDWARDS,450,False,AG Edwards Inc.
+251,EFHUTTON,3643,True,EF Hutton LLC
+252,EGNATIA,841,False,Optima bank (ESN)
+253,EHICKEY,376,False,Seaport Research Partners
+254,EITYSIX,0,True,
+255,EKNSECUR,627,True,EKN Financial Services Inc.
+256,ELEVATE,0,True,
+257,ELEVEN,3,False,Citigroup Inc
+258,ELIXIR,159,False,NWM Strategy
+259,EMASSMGT,2615,False,Opus Group Financial
+260,EMERALD,629,True,Emerald Research
+261,EMERGRO,17,True,"Emerging Growth Equities, Ltd."
+262,ENAM,0,True,
+263,ENGLANDE,0,True,
+264,ENSKILSS,260,False,SEB
+265,EOFFER,616,True,E*TRADE Financial Corporation
+266,EQUISIGH,3715,False,Equisights
+267,EQUITSEC,1322,True,SunTrust Equitable Securities
+268,EQUITYN,0,True,
+269,ERARES,2142,False,ERA Forest Products Research
+270,ERSTEBER,659,True,First Berlin Equity Research GmbH
+271,ESUN,0,True,
+272,EUROMEUR,644,False,Equita SIM S.p.A.
+273,EUROMOB,644,False,Equita SIM S.p.A.
+274,EUROPAC,0,True,
+275,EURPACAP,2282,False,Alliance Global Partners
+276,EVALUATE,3294,True,Evaluate Research Limited
+277,EVANSPA,0,True,
+278,EVERCO,2554,True,Evercore ISI
+279,EVLI,306,True,Evli Bank plc
+280,EVO,646,True,Evolution Securities Asia
+281,EXANE,230,False,BNP Paribas Exane
+282,EXECUTE,370,False,Haitong Bank S.A.
+283,FAB,640,False,Erste Group Bank AG
+284,FAHN,567,True,CIBC Capital Markets
+285,FAI,0,True,
+286,FARMHOUS,263,True,Farmhouse Equity Research
+287,FBNSEC,650,True,"FBN Securities, Inc."
+288,FBOSTON,4,False,Credit Suisse
+289,FCOL,1080,True,vFinance Investments Inc.
+290,FEARNLEY,288,False,Fearnley Securities
+291,FECHTOR,7,False,Goldman Sachs
+292,FELTL,18,True,"Feltl and Company, Inc."
+293,FENERGY,287,True,FirstEnergy Capital Corp.
+294,FGS,200,False,First Global Stockbroking (P) Ltd.
+295,FIG,19,True,FIG Partners
+296,FIMSECS,654,True,FIM Investment Research
+297,FINNCAP,770,True,Cavendish 
+298,FINRUS,0,True,
+299,FINTRUST,3087,True,"FinTrust Capital Advisors, LLC"
+300,FIRSANAL,658,False,First Analysis Securities Corporation
+301,FIRSOUTH,833,False,Macquarie Research
+302,FIRSTALB,54,False,"Gleacher & Company, Inc."
+303,FIRSTASA,323,True,Swedbank Norway
+304,FIRSTINV,135,False,Stonecap Securities Inc.
+305,FONDSFIN,289,False,Beringer Finance AB
+306,FORESITE,373,True,"Foresight Research Solutions, LLC"
+307,FORTNED,1856,True,ABN AMRO Bank N.V.
+308,FORTSEC,667,False,BNP Paribas Fortis
+309,FORUNTEC,668,True,"Forun Technologies, Inc."
+310,FORWARD,3167,True,"Forward View Consulting, LLC"
+311,FOSENSEC,704,True,"Guosen Securities Co., Ltd."
+312,FOUNDER,669,True,"Founder Securities Co., Ltd."
+313,FOURTEEN,670,False,Fourteen Research Corp.
+314,FOXDCAP,0,True,
+315,FOXPITT,331,True,Fox-Pitt Kelton Cochran Caronia Waller
+316,FOYILSEC,671,True,Foyil Securities
+317,FPRESSPR,0,True,
+318,FRASERMC,23,True,Fraser Mackenzie Limited
+319,FRCLAYSC,9,True,Barclays
+320,FRIEDMAN,24,True,FBR Capital Markets & Co.
+321,FROSTSEC,675,False,"Frost Securities, Inc."
+322,FSIGHT,1808,False,MA Moelis Australia Securities Pty Ltd
+323,FTENN,25,True,FTN Midwest Securities Corp.
+324,FUBON,676,True,Fubon Securities
+325,FULGLO,26,True,Fulcrum Global Partners LLC
+326,FUNDARES,427,False,Fundamental Research Corp.
+327,FURMAN,324,True,ING Groep NV
+328,FXIASECU,605,True,Dexia Bank Belgium
+329,FZENOVEC,264,True,JPMorgan Cazenove Limited
+330,GABELLCO,1203,False,"G. Research, LLC"
+331,GARANTIA,4,False,Credit Suisse
+332,GARGIULO,908,False,Oscar Gruss and Son Inc.
+333,GARP,78,False,GARP Research & Securities Co.
+334,GARTNER,1299,False,Schwab Soundview Capital Markets
+335,GAZ,2582,True,Gazprombank (Joint Stock Company)
+336,GBM,1207,True,"GBM Grupo Bursátil Mexicano, S.A. de C.V. Casa de Bolsa"
+337,GDUPONT,685,False,Gilbert Dupont
+338,GENESIS,1542,False,JWGenesis Financial Corp.
+339,GENOSSEN,964,True,Raiffeisen Bank International AG - Institutional Equity
+340,GENUITYC,79,True,Genuity Capital Markets
+341,GERARD,2790,False,AlphaValue
+342,GFSEC,684,True,GF Securities Co. Ltd.
+343,GHUNTER,376,False,Seaport Research Partners
+344,GILFORD,80,False,Gilford Securities
+345,GKM,210,True,BMO Capital Markets U.S. (Historical)
+346,GLOBALNA,3742,False,Trickle Research
+347,GLOCROWN,686,True,GC Research Ltd
+348,GLOVALUE,3381,True,Global Value Research Company
+349,GOEPEL,308,False,Raymond James Ltd.
+350,GOETZ,3265,True,goetzpartners securities Limited
+351,GOLDIS,935,False,"Pittsburg Research, Inc."
+352,GOLDMAN,7,False,Goldman Sachs
+353,GOLDSMIT,1523,False,Goldsmith & Harris Incorporated
+354,GOODBODY,146,True,Goodbody Stockbrokers
+355,GRANDATI,0,True,
+356,GRANFINA,81,True,Granite Financial Group
+357,GRANIT,81,True,Granite Financial Group
+358,GREAST,698,False,Great Eastern Securities
+359,GREATLKE,42,True,"Soleil Securities Group, Inc."
+360,GREENGLO,700,True,"Greenwich Global, LLC"
+361,GRIFFIN,83,True,Griffin Securities
+362,GRIFFMCB,197,False,Stifel Canada
+363,GRUNTAL,701,False,Gruntal & Co
+364,GS2,486,False,B C Ziegler & Co
+365,GSHENG,0,True,
+366,GTJA,2300,True,Guotai Junan Securities
+367,GUGGEL,2538,False,"Guggenheim Securities, LLC"
+368,GUOJUN,705,True,Guotai Junan International Holdings Limited
+369,GUOSEN,2910,True,Guosen Securities(HK) Financial Holdings Company
+370,GUZMAN,84,False,Guzman & Company
+371,HAGSTRM,727,True,HQ Bankaktiebolag
+372,HAITONG,2302,True,Haitong International Research Limited
+373,HALLUM,46,False,ThinkEquity LLC
+374,HALPERN,27,False,Halpern Capital
+375,HALYKFIN,2692,False,JSC Halyk Finance
+376,HAMMERPA,264,False,JPMorgan Cazenove Limited
+377,HAMQUIST,764,True,J.P. Morgan H&Q
+378,HANAUER,761,True,J.B. Hanauer & Co.
+379,HANIFEN,124,False,Stifel
+380,HANWEST,0,True,
+381,HANWHA,714,True,"Hanwha Investment & Securities Co., Ltd."
+382,HAPSEC,0,True,
+383,HARPOYAA,718,True,Euroz Hartleys Securities Limited
+384,HARRISNC,322,False,Wellington West Capital Markets Inc.
+385,HASKETT,3022,True,Gordon Haskett Research Advisors
+386,HASPA,709,True,Hamburger Sparkasse AG
+387,HAYWOOD,28,False,Haywood Securities Inc.
+388,HCWAIN,85,False,H.C. Wainwright & Co.
+389,HDBROUS,380,False,"HD Brous & Co., Inc."
+390,HELLENIC,0,True,
+391,HERMANN,506,True,Bankhaus Lampe KG
+392,HILLIARD,762,False,Hilliard Lyons
+393,HISPANO,2295,True,Banco Santander
+394,HMGLOBAL,3020,True,HM Global Capital LLC
+395,HOAK,723,False,"Hoak, Breedlove, Wesneski & Co."
+396,HOEFER,1109,False,"Howe Barnes Hoefer & Arnett, Inc."
+397,HONOLULU,662,False,"First Honolulu Securities, Inc."
+398,HOTOVEC,382,True,Hotovec Pomeranz & Co. Inc.
+399,HOVDE,3178,True,"Hovde Group, LLC"
+400,HOWARD,725,False,Scotia Howard Weil
+401,HOWEBARN,1109,True,"Howe Barnes Hoefer & Arnett, Inc."
+402,HUAFIN,2774,True,Huatai Financial Holdings (Hong Kong) Limited
+403,HUDSON,554,False,Inteligo SAB
+404,HUDSONSQ,42,True,"Soleil Securities Group, Inc."
+405,HYPOTH,3274,False,Hypothesis Research Ltd
+406,HYUNDAI,0,True,
+407,IBERIA,2763,False,Iberia Capital Partners
+408,IBI,217,False,Israel Brokerage & Investments I.B.I. Ltd.
+409,ICBCINT,2618,True,ICBC International Research
+410,IHSEC,3343,False,Tellimer Research
+411,IIIR,252,False,Independent International Investment Research
+412,IISPL,2328,True,Ismail Iqbal Securities (Pvt.) Ltd.
+413,IMPERCAP,88,False,Imperial Capital
+414,IMTRUST,1654,False,CrediCorp Capital
+415,INDALSEC,2500,False,iA Capital Markets
+416,INDERES,2476,False,Inderes Oy
+417,INDUS,3138,True,Industrial Securities (HK) Financial Holdings
+418,INFINIUM,746,True,"Infinium Securities, Inc."
+419,ING,324,True,ING Groep NV
+420,INGALLS,388,True,Ingalls & Snyder LLC
+421,INHENCRO,389,True,Investec Bank plc (UK)
+422,INRES,741,False,"Independent Research Group, LLC"
+423,INSTINET,182,False,Nomura Securities Co. Ltd.
+424,INTERAC,748,False,Interacciones Casa De Bolsa De Cv
+425,INTERAT,0,True,
+426,INTERFIP,554,True,Inteligo SAB
+427,INTMONTE,751,True,Intermonte SIM S.p.A.
+428,INVERBRO,0,True,
+429,INVESKS,389,True,Investec Bank plc (UK)
+430,INVSECUR,2817,False,Invest Securities
+431,IPOPEMA,2854,True,Ipopema Securities S.A.
+432,ISIGROUP,1971,True,ISI Group Inc.
+433,ITAU,758,False,Itau BBA
+434,ITREND,0,True,
+435,JACKSON,765,True,"Jackson Securities, LLC"
+436,JANCO,205,False,"Janco Partners, Inc."
+437,JANNEY,89,False,Janney Montgomery Scott LLC
+438,JAVELIN,674,False,Friend & Company
+439,JBEF,2957,True,Kepler Cheuvreux
+440,JCAPITAL,220,True,Jennings Capital Inc.
+441,JCBSEC,2384,True,Jacob Securities Inc.
+442,JEDAVY,189,False,Davy
+443,JEFFEREG,90,False,Jefferies LLC
+444,JENNCAP,220,False,Jennings Capital Inc.
+445,JESUPLAM,91,False,Jesup & Lamont Securities Corporation
+446,JGCAP,0,True,
+447,JGIORDAN,91,m,Jesup & Lamont Securities Corporation
+448,JLEMON,774,False,"Johnston, Lemon & Co. Incorporated"
+449,JLROSS,1233,False,"Josephthal & Co., Inc."
+450,JMDUTTON,768,False,"Dutton Associates, LLC"
+451,JMPSEC,1370,m,Wunderlich Securities
+452,JOGUNNAR,390,True,"Joseph Gunnar & Co., LLC"
+453,JOHNRICE,773,False,"Johnson Rice & Company, L.L.C."
+454,JOHNSON,178,False,Wachovia Securities
+455,JOLSON,92,False,JMP Securities
+456,JONESTAD,3214,True,"JonesTrading Institutional Services, LLC"
+457,JPINVEST,2302,False,Haitong International Research Limited
+458,JPMORGAN,8,False,J.P. Morgan
+459,JSA,779,True,JSA Research Inc.
+460,JYSKE,780,False,Jyske Bank A/S
+461,KALLIWOD,613,True,Dr. Kalliwoda Research
+462,KANSAS,1235,True,Kansas City Capital Associates
+463,KAUFBRO,29,False,"Kaufman Bros., L.P."
+464,KAUPBANK,784,False,Singer Capital Markets
+465,KBCCEE,788,True,KBC Securities- CEE Research
+466,KDBANKA,2385,False,KD Banka d.d.
+467,KEARNS,149,False,"Paradigm Capital, Inc."
+468,KEEFE,94,False,"Keefe, Bruyette, & Woods"
+469,KEEFELTD,94,True,"Keefe, Bruyette, & Woods"
+470,KEMPEN,292,True,Kempen & Co. NV
+471,KENNY,792,True,Kenny Securities Corp.
+472,KGIFR,0,True,
+473,KGIFT,796,True,KGI Securities Co. Ltd.
+474,KIMC,798,m,Kim & Company LLC
+475,KIMENG,799,m,Maybank Research
+476,KINNARD,148,True,Miller Johnson Steichen Kinnard
+477,KINTISHE,169,True,Kintisheff Research
+478,KIRKPETT,800,False,"Kirkpatrick, Pettis, Smith, Polian Inc."
+479,KITFIN,0,True,
+480,KLEINEUR,6,False,Dresdner Kleinwort
+481,KLRGRP,2879,True,"KLR Group Holdings, LLC"
+482,KOMERC,802,False,Komercni Banka AS
+483,KREDIET,787,False,KBC Securities NV
+484,KUEHN,861,True,"Miller, Johnson & Kuehn Inc."
+485,LADENBRG,38,False,Ladenburg Thalmann & Company
+486,LADENBUR,38,False,Ladenburg Thalmann & Company
+487,LAFFER,3033,False,"R.F. Lafferty & Co., Inc"
+488,LAIDCOM,3027,True,Laidlaw & Company (UK) Ltd
+489,LAKES,2952,True,"Lake Street Capital Markets, LLC"
+490,LANGEN,810,True,Langen McAlenney
+491,LANGENBE,393,True,"Langenberg & Company, LLC"
+492,LARRAIN,1242,False,LarrainVial S.A.
+493,LASALLE,394,False,"Lasalle Street Securities, LLC"
+494,LATINVES,349,False,BBVA Corporate and Investment Bank
+495,LAURENTI,198,True,"Laurentian Bank Securities, Inc."
+496,LAWRENCE,5,False,Deutsche Bank
+497,LAZARD,812,False,Lazard Capital Markets
+498,LBBW,392,False,Landesbank Baden-Wuerttemberg Equity and Fixed Income Research
+499,LCMMP,3169,False,TPICAP Midcap
+500,LEADERCO,813,False,Leader Capital Markets Ltd
+501,LEEDE,1117,False,Leede Financial Markets Inc.
+502,LEERINK,96,False,Leerink Partners LLC
+503,LEGG,97,True,"Legg Mason Wood Walker, Inc."
+504,LEHMAN,1393,True,Lehman Brothers Holdings Inc.
+505,LEVESQUE,221,False,National Bank Financial
+506,LHFRIEND,674,m,Friend & Company
+507,LIBECAP,2422,True,Panmure Liberum
+508,LIFSCICA,3440,False,"LifeSci Capital, LLC"
+509,LOEWEN,826,False,Loewen Ondaatje McCutcheon Limited
+510,LOEWENB,0,True,
+511,LOMBARD,828,True,Lombard Odier Darier Hentsch & Cie Corporate
+512,LONGBOW,269,False,Longbow Research LLC
+513,LOOPCAMA,98,False,Loop Capital Markets
+514,LOOPCAP,98,True,Loop Capital Markets
+515,LUCKY,1094,m,NH Investment & Securities Co. Ltd.
+516,MABON,150,False,"Rodman & Renshaw, LLC"
+517,MACNAB,4,False,Credit Suisse
+518,MACQUARI,833,False,Macquarie Research
+519,MAINFRST,124,m,Stifel
+520,MAISON,1988,True,Maison Placements Canada Inc.
+521,MANAGESO,835,False,"ManageSource Research, Inc."
+522,MAXCOR,99,True,Maxcor Financial Inc.
+523,MAXIM,147,False,Maxim Group
+524,MCADAMS,101,False,McAdams Wright Ragen
+525,MCALPINE,845,True,McAlpine Associates LLC
+526,MCBD,846,False,"McConnell, Budd & Romano, Inc"
+527,MCCARTHY,1325,m,TD Securities
+528,MCDONALD,31,False,KeyBanc Capital Markets Inc.
+529,MCFAR,1257,True,MGI Securities Inc.
+530,MCGINN,0,True,
+531,MCLEAN,5,True,Deutsche Bank
+532,MCLEOD,120,False,Scotiabank Global Banking and Market
+533,MCMPART,3206,True,MCM Partners
+534,MCNICOLL,2447,False,MLV & Co LLC
+535,MDB,102,True,MDB Capital Group LLC
+536,MDMBANK,847,True,MDM Research
+537,MELIUS,3401,True,Melius Research LLC
+538,MERCHANT,754,False,Investec Bank Limited (SA)
+539,MERCPART,852,True,Mercury Partners LLC
+540,MERLIN,0,True,
+541,MERRILL,10,False,BofA Global Research
+542,MERRINTL,10,False,BofA Global Research
+543,MERRION,191,False,Merrion Stockbrokers Ltd.
+544,METZLER,855,True,Metzler Equities
+545,MFGLOBAL,1667,False,MF Global UK Limited
+546,MFGLOHK,352,False,BNP Paribas Securities (Asia)
+547,MGASFC,5,True,Deutsche Bank
+548,MGASFH,0,True,
+549,MIDEST,25,False,FTN Midwest Securities Corp.
+550,MIDPAR,2988,True,Midtown Partners & Co
+551,MILLERTA,285,False,"Miller Tabak & Co., LLC"
+552,MILLMAN,1259,True,Millman Research Associates
+553,MIRAE,863,False,"Mirae Asset Securities Co., Ltd. (Pre-Merger)"
+554,MITCH,12,False,UBS Investment Bank
+555,MIZUSEC,2557,False,Mizuho Securities USA LLC
+556,MJSK,148,False,Miller Johnson Steichen Kinnard
+557,MKEEGAN,105,False,Morgan Keegan & Company
+558,MKMPARTN,400,True,MKM Partners LLC
+559,MLGA,33,False,Morgan Joseph TriArtisan LLC
+560,MMWAR,867,False,Warburg Research GmbH
+561,MOFFETT,0,True,
+562,MONALLC,30,True,Kevin Dann & Partners
+563,MONNESS,0,True,
+564,MONTAUK,869,True,Montauk Capital Markets Group
+565,MONTCO,870,False,"Montgomery & Co., LLC"
+566,MONTSEC,2,False,Banc of America Securities
+567,MORGAN,11,False,Morgan Stanley
+568,MORGNADR,11,False,Morgan Stanley
+569,MORITZ,754,False,Investec Bank Limited (SA)
+570,MPARTNER,270,False,M Partners Inc.
+571,MRNGSTAR,2494,False,Morningstar Inc.
+572,MSHOWELL,830,True,"M.S. Howells & Co., Inc."
+573,MURPHY,2402,True,"Murphy & Durieu, L.P."
+574,MZSEC,2557,True,Mizuho Securities USA LLC
+575,NAMIBIA,2983,True,Namibia Equity Brokers (Pty) Ltd
+576,NATLSEC,873,False,B. Riley Wealth
+577,NATSECCO,0,True,
+578,NATUREO,293,False,Kepler Capital Markets
+579,NAUSEC,2834,True,Nau Securities Limited
+580,NBADSEC,2995,True,FAB Securities
+581,NCBSTOCK,161,False,NCB Stockbrokers
+582,NCPNOR,2467,True,NCP Northland Capital Partners Inc.
+583,NEEDHAM,35,False,Needham & Company
+584,NEIDIGER,878,True,"Neidiger, Tucker, Bruner"
+585,NEPONSET,42,True,"Soleil Securities Group, Inc."
+586,NEWB,219,True,Newbridge Institutional Research
+587,NEXTGENE,156,True,Next Generation Equity Research
+588,NIKOIL,1073,False,URALSIB Capital LLC
+589,NIVESH,1696,False,IndiaNivesh Securities Limited
+590,NOBE,888,False,"NOBLE Capital Markets, Inc."
+591,NOLLENBE,889,False,"Nollenberger Capital Partners, Inc."
+592,NOMURAEU,182,True,Nomura Securities Co. Ltd.
+593,NOMURAFH,182,False,Nomura Securities Co. Ltd.
+594,NOMURAUS,182,True,Nomura Securities Co. Ltd.
+595,NORDLB,890,False,Norddeutsche Landesbank Girozentrale
+596,NORTEST,892,True,Northeast Securities Inc.
+597,NORTHLAN,893,False,Northland Capital Markets
+598,NORTHRES,2338,False,Northcoast Research
+599,NSTREET,1830,True,New Street Research LLP
+600,NUMIS,895,False,Numis Securities Ltd.
+601,NUTMEG,896,True,Nutmeg Securities Ltd.
+602,NVERNON,881,False,"New Vernon Associates, Inc"
+603,NYGLOBAL,882,True,"New York Global Securities, Inc."
+604,OAKFINAN,3423,True,Oak Ridge Financial Services Group Inc.
+605,OBERWEIS,897,False,Oberweis Publishing Company
+606,OBSIRES,2933,False,"Obsidian Research Group, LLC"
+607,OCTAGON,36,False,Octagon Capital Corporation
+608,ODDO,899,False,ODDO BHF Corporate & Markets
+609,ODEON,2533,False,Odeon Capital Group LLC
+610,OFFUTT,107,False,"Offutt Securities, Inc."
+611,OHMAN,157,True,Pareto Öhman
+612,OLDE,707,False,"H&R Block Financial Advisors, Inc."
+613,OLMSTEAD,129,False,Wedbush Securities Inc.
+614,OLYMPIA,2543,True,Olympia Capital Markets Group
+615,ONECORP,0,True,
+616,ONFIELD,0,True,
+617,OPPEN,108,True,Oppenheimer & Co. Inc.
+618,OPPENGER,903,False,Oppenheim Research GMBH
+619,ORIELSEC,904,True,Oriel Securities Ltd.
+620,ORION,907,False,Norne Securities AS
+621,OTKRITIE,2212,False,Sova Capital Limited
+622,PACCREST,110,True,Pacific Crest
+623,PACGROW,111,False,Pacific Growth Equities
+624,PACINTL,928,False,Ventum Financial Corp
+625,PACMAN,1065,False,BTG Pactual
+626,PANME,165,True,Panmure Liberum Historic (Panmure Liberum).
+627,PANMURE,326,False,WestLB AG
+628,PARETO,284,False,Pareto Securities
+629,PARIBEU,230,True,BNP Paribas Exane
+630,PARILAT,230,True,BNP Paribas Exane
+631,PARKER,916,True,Parker/Hunter Inc
+632,PARTNERC,3691,True,"PartnerCap Securities, LLC"
+633,PEACOCK,969,False,"RedChip Companies, Inc."
+634,PEELHUNT,259,True,Peel Hunt LLP
+635,PENSER,639,True,Penser Access
+636,PEREGFL,352,True,BNP Paribas Securities (Asia)
+637,PEREIRE,0,True,
+638,PERELLA,6,False,Dresdner Kleinwort
+639,PETERCAM,924,False,Degroof Petercam
+640,PETERSCO,925,False,Peters & Co. Limited
+641,PETRIE,854,True,Petrie Parkman & Co.
+642,PHILIPFS,3224,True,Phillip Securities Pte Ltd
+643,PICKERIN,1335,True,"Tudor, Pickering & Co. Securities, Inc."
+644,PICTETBR,929,True,Pictet & Cie
+645,PIPER,112,False,Piper Sandler Companies
+646,PIPL,932,True,Pioneer Investcorp Limited
+647,PIVOTAL,2495,False,Pivotal Research Group
+648,PKOBP,2061,False,PKO BP Securities
+649,PLURAL,3134,True,Brasil Plural
+650,PNC,0,True,
+651,POFEK,952,False,Psagot Securities Ltd.
+652,POINT,2700,True,"Compass Point Research & Trading, LLC"
+653,POORSTAN,247,False,CFRA Equity Research
+654,PORTALES,0,True,
+655,PORTZAMP,938,True,Portzamparc BNP Paribas
+656,POTTER,12,False,UBS Investment Bank
+657,PPARTGRP,0,True,
+658,PREDICTP,1278,True,Prime Predictions
+659,PREFTECH,941,True,"Preferred Capital Markets, Inc."
+660,PRITCHAR,407,True,"Pritchard Capital Partners, LLC"
+661,PROEQUIT,950,False,"Provident Research, Inc."
+662,PSPCTINV,947,False,Prospect Investment Company
+663,PUNK,38,False,Ladenburg Thalmann & Company
+664,PUNTA,0,True,
+665,PUTLOVE,960,True,Putnam Lovell NBF Securities
+666,QILU,3200,m,Zhongtai securities
+667,RABOBANK,218,True,Rabobank Equity Research
+668,RAFFERTY,2392,True,Rafferty Capital Markets
+669,RAINIER,0,True,
+670,RAMIRCO,113,True,Ramirez & Co.
+671,RAYEURO,1574,True,Raymond James Euro Equities
+672,RAYJAYAR,2604,True,Raymond James Latin America S.A
+673,RAYMOND,114,False,Raymond James & Associates
+674,RBCDAIN,115,True,RBC Capital Markets
+675,RBCDOMIN,115,False,RBC Capital Markets
+676,RBRTSON,978,False,"Robertson Stephens, Inc."
+677,RBSMOR,2925,True,Morgans Financial Limited
+678,REDBURN,1116,False,Redburn Atlantic
+679,REDCHIP,969,False,"RedChip Companies, Inc."
+680,REDCLOUD,3385,False,Red Cloud Securities
+681,REDWOOD,972,True,Redwood Securities Group Incorporated
+682,REFCO,0,True,
+683,RENCAP,2273,True,Renaissance Capital
+684,RESEARCH,117,False,Research Capital Corporation
+685,RMG,320,False,"Rye, Man and Gor Securities"
+686,ROBINGRP,1050,False,"Robins Group, LLC"
+687,ROBINSON,261,False,Truist Securities
+688,ROCHDALS,39,False,Rochdale Securities LLC
+689,ROE,409,True,"Roe Equity Research, LLC"
+690,ROSSEC,2668,False,Rosenblatt Securities Inc.
+691,RSPLATOU,2740,True,Clarksons Platou Securities
+692,RTXSECS,103,False,"Merriman Capital, Inc"
+693,RYANBECK,41,True,Ryan Beck & Co.
+694,SALMAN,305,False,Salman Partners Inc.
+695,SAMSNGFK,984,True,Samsung Securities Co. Ltd.
+696,SANDLER,119,True,Sandler O'Neill
+697,SANDS,985,False,Sands Brothers & Co. Ltd.
+698,SANINVLC,429,False,Santander
+699,SARASIN,505,False,Bank J. Safra Sarasin
+700,SBCIFC,12,True,UBS Investment Bank
+701,SBGSEC,589,True,SBG Securities (Proprietary) Limited
+702,SBKBROOK,987,False,SBK-Brooks Investment Corp.
+703,SCO,411,False,"SCO Financial Group, LLC"
+704,SCOAST,185,False,"Capital One Securities, Inc."
+705,SCOTT,175,False,BB&T Capital Markets
+706,SEIDLER,127,True,Seidler Companies
+707,SELECT,0,True,
+708,SELECTEQ,1302,True,Select Equities Pty Ltd
+709,SEMIEQ,0,True,
+710,SEOUL,0,True,
+711,SHAWAA,1002,True,Shaw and Partners Limited
+712,SHENWAN,1000,m,"SWS Research Co., Ltd."
+713,SHIELD,0,True,
+714,SHIELDS,1003,False,Shields & Company
+715,SHOREUK,2068,True,Shore Capital Group Ltd
+716,SIDOTI,121,False,"Sidoti & Company, LLC"
+717,SIGNALHI,414,True,Signal Hill Capital Group LLC
+718,SILVIA,0,True,
+719,SIMMONS,1009,True,Simmons & Company International
+720,SINARA,0,True,
+721,SINGRES,1447,False,Singular Research
+722,SINOLINK,0,True,
+723,SISMRES,1013,False,SISM Research & Investment Services
+724,SKYCAP,417,True,Sky Capital LLC
+725,SKYLINE,0,True,
+726,SMBCNSAM,3470,False,SMBC Nikko Securities America
+727,SMEETSCO,1779,False,Viet Capital Securities Joint Stock Company
+728,SMOORE,1019,False,"Smith, Moore & Co."
+729,SOGENED,999,False,Societe Generale Cross Asset Research
+730,SOOCHOW,0,True,
+731,SOUTH,122,False,Southwest Securities
+732,SOUTHCRS,122,True,Southwest Securities
+733,SPACSEC,0,True,
+734,SPARTANC,3496,True,"Spartan Capital Securities, LLC"
+735,SPDBINT,3538,True,SPDB International Holdings Limited
+736,SPELMAN,0,True,
+737,SPROCAP,0,True,
+738,SPROTTSE,43,False,Cormark Securities Inc.
+739,SRIDGE,2413,True,Southridge Research Group
+740,STANCARD,0,True,
+741,STANFIN,123,False,Stanford Group Company
+742,STEICHEN,963,True,R.J. Steichen & Company
+743,STEPHENS,44,False,"Stephens, Inc."
+744,STERLING,0,True,
+745,STERNE,1029,True,Sterne Agee & Leach
+746,STEUB,154,False,Wolfgang Steubing AG Wertpapierdienstleister
+747,STIFEL,124,False,Stifel
+748,STJAMES,164,True,Northern Securities
+749,STONE,176,True,"Stonegate Capital Markets, Inc."
+750,STRATINT,24,False,FBR Capital Markets & Co.
+751,STROEVE,0,True,
+752,STRUDWIC,56,False,Anderson & Strudwick
+753,STURDIV,151,False,"Sturdivant & Co., Inc."
+754,STURZA,1034,False,Sturza's Institutional Research
+755,SUMMANAL,420,True,Summit Analytic Partners
+756,SUMMCAP,367,False,Colliers Securities
+757,SUMMER,0,True,
+758,SUMRES,3016,True,Summit Insights Group
+759,SUSQUEH,195,False,"Susquehanna Financial Group, LLLP"
+760,SUTRO,1037,True,"Sutro & Co., Inc."
+761,SVENSKA,711,True,Handelsbanken Capital Markets
+762,SWEDBANK,167,True,Swedbank Large Corporates & Institutions
+763,SWESTSEC,0,True,
+764,TAFM,0,True,
+765,TAGLICH,152,False,"Taglich Brothers, Inc."
+766,TDSI,1325,True,TD Securities
+767,TECHRG,2426,False,Technology Research Group
+768,TECHVEST,419,False,"Techvest, LLC"
+769,TEJASSEC,0,True,
+770,TELSEY,2889,False,Telsey Advisory Group LLC
+771,TERRANOV,1044,True,Terra Nova Institutional
+772,THEBENCH,1046,False,Benchmark Company
+773,THOM,0,True,
+774,THOMPRES,2365,True,"Thompson Research Group, LLC."
+775,TIBRES,2248,True,Tiburon Research Group
+776,TICON,2380,True,Ticonderoga Securities LLC
+777,TIERONE,978,False,"Robertson Stephens, Inc."
+778,TIGRESS,2982,True,Tigress Financial Partners LLC
+779,TISCOFT,1331,False,Tisco Securities Co. Ltd.
+780,TMCAPITA,638,False,Equity Research Services Inc
+781,TOPEKA,2815,False,Topeka Capital Markets Inc.
+782,TPCG,0,True,
+783,TRISTONE,1059,True,Tristone Research
+784,TROIKA,1114,False,Sberbank CIB Investment Research
+785,TWENTY,435,True,21st Century Equity Research
+786,TWPINDIA,609,True,Discovery Research- Thomas Weisel
+787,UKMATRIX,0,True,
+788,UNIBANCO,758,True,Itau BBA
+789,UNICREDI,511,False,UniCredit Research
+790,UNIGAM,2870,False,CBRE Securities
+791,UNIONSEC,0,True,
+792,UNITEDSE,0,True,
+793,UNTERBUR,144,False,Collins Stewart LLC
+794,USCASEC,2780,False,U.S. Capital Advisors LLC
+795,USSEC,1074,True,US Securities & Futures Corporation
+796,UTENDAHL,1075,True,Utendahl Capital Partners LP
+797,VALORES,1181,False,Corp Research SA
+798,VANKASPR,1088,False,"Wells Fargo Securities, LLC"
+799,VARICORP,0,True,
+800,VCL,0,True,
+801,VCSC,1779,True,Viet Capital Securities Joint Stock Company
+802,VECTOR,408,False,"Prudential Equity Group, LLC"
+803,VELES,1344,False,"Veles Capital Investment Company, LLC"
+804,VENTURER,0,True,
+805,VERISEAR,2488,False,Veritas Investment Research Corp
+806,VERTRESP,2836,m,Vertical Research Partners
+807,VESTIGO,1079,True,Vestigo Associates
+808,VINTAGER,1081,True,Vintage Research
+809,VIRGINIA,74,True,Davenport & Company
+810,VIRIDIAN,2527,False,BTIG
+811,VOLPE,1283,True,Prudential Volpe Technology Group
+812,VOTORAN,3095,False,Votorantim Corretora de Títulos
+813,VSACAP,2858,True,VSA Capital Limited
+814,VTBCAP,2483,False,VTB Capital
+815,WARDTRA,0,True,
+816,WARFH,12,True,UBS Investment Bank
+817,WARLAT,12,True,UBS Investment Bank
+818,WBETH,2878,True,WallachBeth Capital
+819,WEATHER,0,True,
+820,WEBRES,1088,False,"Wells Fargo Securities, LLC"
+821,WEEDEN,300,False,"Weeden & Co., LP"
+822,WEISEL,47,False,Thomas Weisel Equity Research
+823,WEREJB,693,False,Goldman Sachs & Partners Australia Pty Ltd
+824,WERTHEIM,1582,True,"Schroder & Co., Inc."
+825,WESPOCAP,0,True,
+826,WESTMIN,153,True,Westminster Securities Corporation
+827,WESTPARK,3245,False,"WestPark Capital, Inc."
+828,WESTROCK,102,False,MDB Capital Group LLC
+829,WESTWIND,47,m,Thomas Weisel Equity Research
+830,WHALE,1787,False,Bluestone Capital Corp.
+831,WHEAT,1088,False,"Wells Fargo Securities, LLC"
+832,WHENTRAD,1090,True,When2Trade Group
+833,WHITAKER,868,False,Monarch Research LLC
+834,WICARRFE,0,True,
+835,WILLFIN,2498,True,"Williams Financial Group, Inc."
+836,WILLIAMC,52,False,"Siebert Williams Shank & Co., LLC"
+837,WILSONAA,1092,True,Wilsons Advisory and Stockbroking Ltd.
+838,WISCO,2056,True,Wisco Research
+839,WITCAPTL,1299,m,Schwab Soundview Capital Markets
+840,WJBCAP,0,True,
+841,WMJM,118,False,Madison Williams and Company LLC
+842,WMSMITH,367,False,Colliers Securities
+843,WNDRLICH,1370,False,Wunderlich Securities Inc.
+844,WOLFE,2057,False,"Wolfe Research, LLC."
+845,WOODCZ,155,False,Wood & Company
+846,WOODGUND,567,False,CIBC Capital Markets
+847,WORLDSEC,0,True,
+848,WRHCO,128,False,WR Hambrecht + Co.
+849,WSACCESS,0,True,
+850,WSTREET,0,True,
+851,XPINV,3657,False,XP Investimentos
+852,YAMFH,0,True,
+853,YORKTON,833,False,Macquarie Research
+854,YUANTA,1098,True,Yuanta Research
+855,ZACKSINV,1356,True,Zacks Investment Research Inc.
+856,ZANNEX,206,True,Excellence Nessuah Brokerage Services Ltd.
+857,ZELMAN,0,True,
+858,ZOETE,4,True,Credit Suisse
+859,ZURCHER,1100,False,Zürcher Kantonalbank

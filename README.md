@@ -40,7 +40,7 @@ min              0         0
 max           1733      3040
 
 c. 174053 distinctive (analyst, stock) coverage pair, means per analyst, they cover about 15 stocks
-       COUNT_RECOM_x  COUNT_RECOM_y
+       COUNT_RECOM_x  COUNT_TP
 count         174053         174053
 mean               2              9
 std                2             13
@@ -61,4 +61,31 @@ min              0         0
 75%              2        10
 max             73       228
 
+For recommendations / tp: broker amount: about 800
+
 e. looking at c. and d., does it look normal that most of the analysts do not cover same stocks anymore when they changed employer (broker)? i think it is strange...
+
+f. unique id... analyst name, 
+
+scenario:
+IBES data
+
+name          ID     --> name'   BROKER   coveraging stock
+ZHU H.    x123       ZHU H.1     gs
+ZHU H.    x234       ZHU H.2     jp
+ZHU H.    x345       ZHU H.3     citi
+
+CIQ data
+full name     BROKER
+ZHU HONG      gs
+ZHU Heng      jp
+ZHu Hang      citi
+
+with the plague of names
+
+step 1. 
+same name+initial, with different ids. --> 
+
+step 2. 
+with broker name -->
+
