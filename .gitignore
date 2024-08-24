@@ -169,3 +169,4 @@ data/BROKER_*
 data/name_df*
 *.jsonl
 overall.parquet
+s3/
